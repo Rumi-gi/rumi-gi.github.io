@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Twitter(https://twitter.com)
+[Twitter](https://twitter.com)
 
 ```markdown
 Syntax highlighted code block
